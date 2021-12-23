@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "cdd022b05ae340f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "334f59bc33aebf21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily/如何在生产环境使用本地 sourceMap 调试？.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56c6988207aaa78c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5704130cdc07e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a877e1e56dd9f33c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3503cdd818667f83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7951ce4e15e2c63b",
+    "type": "split",
+    "children": [
+      {
+        "id": "02e99a1e33096a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8e697e45c36e668",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/如何在生产环境使用本地 sourceMap 调试？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37c8f11544bb472c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f0c743b2b71c8d5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222
+  },
+  "active": "334f59bc33aebf21",
+  "lastOpenFiles": [
+    "Daily/如何在生产环境使用本地 sourceMap 调试？.md",
+    "极客时间-透视HTTP协议.md",
+    "README.md",
+    "计算机网络-自顶向下.md",
+    "图解HTTP.md"
+  ]
+}
