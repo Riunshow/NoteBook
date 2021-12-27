@@ -1,6 +1,6 @@
 > [字节面试](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
 > [[EventLoop]]
-> [[常用 js 库]]
+> [[常用 js 库框架]]
 
 
 ### new

@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "35f5cc10efb01658",
+        "id": "6769c84d50dae15c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TechnicalNotes/js/常用 js 库框架.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TechnicalNotes/js/常用 js 库框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TechnicalNotes/js/常用 js 库框架.md"
+              }
             }
           }
         ],
@@ -106,17 +113,17 @@
     "direction": "horizontal",
     "width": 338.5
   },
-  "active": "35f5cc10efb01658",
+  "active": "6769c84d50dae15c",
   "lastOpenFiles": [
+    "TechnicalNotes/js/常用 js 库框架.md",
     "TechnicalNotes/js/js.md",
     "TechnicalNotes/技术笔记汇总.md",
+    "Interview/tuya.md",
     "TechnicalNotes/other/如何在生产环境使用本地 sourceMap 调试？.md",
     "Life/旅游/云南.md",
     "README.md",
     "TechnicalNotes/js/EventLoop.md",
     "TechnicalNotes/html.md",
-    "TechnicalNotes/css.md",
-    "TechnicalNotes/Vue/Vue.md",
-    "TechnicalNotes/Vue/Vue v-model实现原理.md"
+    "TechnicalNotes/css.md"
   ]
 }
