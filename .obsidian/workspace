@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "334f59bc33aebf21",
+        "id": "35f5cc10efb01658",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Daily/如何在生产环境使用本地 sourceMap 调试？.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,14 +65,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/如何在生产环境使用本地 sourceMap 调试？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,20 +90,33 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "27c7429f0d7bbee7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 338.5
   },
-  "active": "334f59bc33aebf21",
+  "active": "35f5cc10efb01658",
   "lastOpenFiles": [
-    "Daily/如何在生产环境使用本地 sourceMap 调试？.md",
-    "极客时间-透视HTTP协议.md",
+    "TechnicalNotes/js/js.md",
+    "TechnicalNotes/技术笔记汇总.md",
+    "TechnicalNotes/other/如何在生产环境使用本地 sourceMap 调试？.md",
+    "Life/旅游/云南.md",
     "README.md",
-    "计算机网络-自顶向下.md",
-    "图解HTTP.md"
+    "TechnicalNotes/js/EventLoop.md",
+    "TechnicalNotes/html.md",
+    "TechnicalNotes/css.md",
+    "TechnicalNotes/Vue/Vue.md",
+    "TechnicalNotes/Vue/Vue v-model实现原理.md"
   ]
 }
