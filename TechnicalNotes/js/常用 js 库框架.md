@@ -32,7 +32,16 @@
 | rslint | https://github.com/rslint/rslint | A (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate |
 | awesome-rust | https://github.com/rust-unofficial/awesome-rust | A curated list of Rust code and resources. |
 | ni | https://github.com/antfu/ni | Use the right package manager |
-|  | https://github.com/yjs/yjs | (多人协作数据共享方案)Shared data types for building collaborative software |
+| yjs | https://github.com/yjs/yjs | (多人协作数据共享方案)Shared data types for building collaborative software |
+| fp-ts | https://gcanti.github.io/fp-ts/ | Typed functional programming in TypeScript |
+
+
+- 浏览器存储
+
+| 框架名 | 链接 | 备注 |
+| ---- | ---- | ---- |
+| remeda | https://github.com/remeda/remeda | A utility library for JavaScript and TypeScript. |
+| Dexie.js | https://github.com/dexie/Dexie.js | A Minimalistic Wrapper for IndexedDB |
 
 
 - web framework
@@ -48,6 +57,7 @@
 | ---- | ---- | ---- |
 | eva.js | https://github.com/eva-engine/eva.js | 互动游戏引擎 |
 | pixijs | https://github.com/pixijs/pixijs | The HTML5 Creation Engine |
+| fabric.js | https://github.com/fabricjs/fabric.js | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser |
 
 
 - 杂七杂八
@@ -56,3 +66,4 @@
 | ---- | ---- | ---- |
 | dr-js | https://github.com/dr-js/dr-js/ | 学习 |
 | weekly | https://github.com/sorrycc/weekly | 云谦 前端周刊 |
+| rust-fe | https://github.com/i5ting/rust-fe | Rust 前端工具链项目 |

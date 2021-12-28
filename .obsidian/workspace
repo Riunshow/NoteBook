@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6769c84d50dae15c",
+        "id": "98ebf1e91ac8d7ed",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -113,7 +113,7 @@
     "direction": "horizontal",
     "width": 338.5
   },
-  "active": "6769c84d50dae15c",
+  "active": "98ebf1e91ac8d7ed",
   "lastOpenFiles": [
     "TechnicalNotes/js/常用 js 库框架.md",
     "TechnicalNotes/js/js.md",
