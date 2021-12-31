@@ -4,5 +4,6 @@
   "legacyEditor": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "emacsyKeys": false
 }

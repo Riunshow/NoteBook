@@ -34,6 +34,7 @@
 | ni | https://github.com/antfu/ni | Use the right package manager |
 | yjs | https://github.com/yjs/yjs | (多人协作数据共享方案)Shared data types for building collaborative software |
 | fp-ts | https://gcanti.github.io/fp-ts/ | Typed functional programming in TypeScript |
+| core-decorators | https://github.com/jayphelps/core-decorators | Library of stage-0 JavaScript decorators(可以参考学习) |
 
 
 - 浏览器存储
@@ -58,12 +59,3 @@
 | eva.js | https://github.com/eva-engine/eva.js | 互动游戏引擎 |
 | pixijs | https://github.com/pixijs/pixijs | The HTML5 Creation Engine |
 | fabric.js | https://github.com/fabricjs/fabric.js | Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser |
-
-
-- 杂七杂八
-
-| 框架名 | 链接 | 备注 |
-| ---- | ---- | ---- |
-| dr-js | https://github.com/dr-js/dr-js/ | 学习 |
-| weekly | https://github.com/sorrycc/weekly | 云谦 前端周刊 |
-| rust-fe | https://github.com/i5ting/rust-fe | Rust 前端工具链项目 |

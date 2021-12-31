@@ -1,6 +1,7 @@
 > [字节面试](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
 > [[EventLoop]]
 > [[常用 js 库框架]]
+> [[设计模式(TODO)]]
 
 
 ### new
@@ -226,11 +227,11 @@ undefined
 
   
 
-### 垃圾回收机制(todo)
+### **垃圾回收机制(todo)**
 
   
 
-### symbol的理解(todo)
+### **symbol的理解(todo)**
 
   
 
@@ -270,3 +271,7 @@ function throttle(fn,delay){
     }
 }
 ```
+
+### **Decorator (TODO)**
+
+
