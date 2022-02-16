@@ -27,10 +27,6 @@
 | fuite | https://github.com/nolanlawson/fuite | 查 web 应用内存泄漏 |
 | nx | https://github.com/nrwl/nx | Smart, Fast and Extensible Build System |
 | react-hooks-testing-library | https://github.com/testing-library/react-hooks-testing-library | Simple and complete React hooks testing utilities that encourage good testing practices. |
-| trunk | https://github.com/thedodd/trunk | Build, bundle & ship your Rust WASM application to the web. |
-| chrono | https://github.com/chronotope/chrono | Date and time library for Rust |
-| rslint | https://github.com/rslint/rslint | A (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate |
-| awesome-rust | https://github.com/rust-unofficial/awesome-rust | A curated list of Rust code and resources. |
 | ni | https://github.com/antfu/ni | Use the right package manager |
 | yjs | https://github.com/yjs/yjs | (多人协作数据共享方案)Shared data types for building collaborative software |
 | fp-ts | https://gcanti.github.io/fp-ts/ | Typed functional programming in TypeScript |

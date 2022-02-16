@@ -198,3 +198,5 @@ const MyContainer = (WrappedComponent) =>
 		}  
 	}
 ```
+
+#### 组件性能优化
