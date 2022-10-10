@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BookNotes/极客时间-重学前端.md",
+            "file": "TechnicalNotes/other/私有化部署codesandbox.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BookNotes/极客时间-重学前端.md",
+                "file": "TechnicalNotes/other/私有化部署codesandbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BookNotes/极客时间-重学前端.md"
+                "file": "TechnicalNotes/other/私有化部署codesandbox.md"
               }
             }
           }
@@ -116,15 +116,15 @@
   },
   "active": "98ebf1e91ac8d7ed",
   "lastOpenFiles": [
+    "TechnicalNotes/other/私有化部署codesandbox.md",
+    "TechnicalNotes/other/如何在生产环境使用本地 sourceMap 调试？.md",
+    "TechnicalNotes/bundle/Webpack.md",
+    "TechnicalNotes/bundle/Bundle.md",
+    "BookNotes/深入 React 技术栈.md",
+    "Algorithm/leetcode/数组/数组.md",
     "BookNotes/极客时间-重学前端.md",
     "BookNotes/极客时间-透视HTTP协议.md",
     "Interview/Interview.md",
-    "TechnicalNotes/js/ts.md",
-    "BookNotes/深入 React 技术栈.md",
-    "Life/年度总结与规划/2021 年.md",
-    "Life/年度总结与规划/年度总结与规划.md",
-    "BookNotes/读书笔记汇总.md",
-    "TechnicalNotes/rust/rust常用库框架.md",
-    "TechnicalNotes/js/常用 js 库框架.md"
+    "TechnicalNotes/js/ts.md"
   ]
 }
